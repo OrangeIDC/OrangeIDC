@@ -1,7 +1,8 @@
 # OrangeIDC
 
 欢迎来到OrangeIDC的代码仓库 该项目为闭源项目  
-项目目录如下
+
+### 项目组成
 - 被控
   - VirtualMachine被控 [ VirtualBox ]
   - VirtualMachine被控 [ VMware ]
@@ -19,3 +20,7 @@
 - 软件
   - 项目部署助手
   - 项目管理助手
+
+### 近期更新
+
+### 相关链接
