@@ -1,12 +1,21 @@
-## Hi there 👋
+# OrangeIDC
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+欢迎来到OrangeIDC的代码仓库 该项目为闭源项目  
+项目目录如下
+- 被控
+  - VirtualMachine被控 [ VirtualBox ]
+  - VirtualMachine被控 [ VMware ]
+  - VirtualMachine被控 [ Hyper-V ]
+  - Panel被控 [ MCServerManager ]
+  - Panel被控 [ Pterodactyl ]
+  - Database被控 [ MySQL ]
+  - Database被控 [ MongoDB ]
+  - File被控 [ COS ]
+  - File被控 [ ResourcePack ]
+  - File被控 [ MiniFile ]
+- 主控
+- 销管
+- 机器人
+- 软件
+  - 项目部署助手
+  - 项目管理助手
