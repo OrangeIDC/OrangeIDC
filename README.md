@@ -14,6 +14,7 @@
   - File被控 [ COS ]
   - File被控 [ ResourcePack ]
   - File被控 [ MiniFile ]
+  - Other被控 [ MinecraftFastServer ]
 - 主控
 - 销管
 - 机器人
